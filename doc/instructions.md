@@ -19,6 +19,7 @@ At the 20s marks, your program must output the set of unique links, it length, t
 Example output:
 ```
 Unique links: [https://wikipedia.org, https://en.wikipedia.org/w/index.php?title=Wikipedia:What_Wikipedia_is_not&action=edit, https://www.allmusic.com/style/speed-thrash-metal-ma0000002874]
+```
 
 All discovered links must be accessible by a sequence of clicks from the main page. This property must be obvious in the implementation (no generation/modification of links).
 
