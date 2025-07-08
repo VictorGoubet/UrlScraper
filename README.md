@@ -31,3 +31,9 @@ The saved JSON file looks like:
 ```
 
 Feel free to tweak `duration`, `max_workers` and `max_connections` in `src/async.py` to suit your machine and network connection. 
+
+## Screenshots
+
+| Async run | Sync run |
+|-----------|----------|
+| ![Async](static/async.png) | ![Sync](static/sync.png) | 
